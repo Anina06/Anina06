@@ -1,14 +1,24 @@
- [Cartão de estatísticas do GitHub](#cartão-de-estatísticas-do-github)
-    - [Ocultando estatísticas específicas](#ocultando-estatísticas-específicas)
-    - [Adicionando contagem de contribuições privadas à contagem total de commits](#adicionando-contagem-de-contribuições-privadas-à-contagem-total-de-commits)
-    - [Exibindo ícones](#exibindo-ícones)
-    - [Temas](#temas)
-    - [Personalização](#personalização)
-- [Pins extras do GitHub](#pins-extras-do-github)
-    - [Utilização](#utilização)
-    - [Demonstração](#demonstração)
-- [Cartão de principais linguagens de programação](#cartão-de-principais-linguagens-de-programação)
-    - [Utilização](#utilização-1)
-    - [Ocultar linguagens individualmente](#ocultar-linguagens-individualmente)
-    - [Layout de cartão de linguagens compacto](#layout-de-cartão-de-linguagens-compacto)
-    - [Demonstração](#demonstração-1)
+## 🐉 Olá, meu nome é Anne! 🐉
+
+<br/> Eu sou um desenvolvedor em Treinamento! ⚔️ </p>
+
+💬 Entre em contato comigo pelo meu email
+
+🌎 diegocs13cordeiro@gmail.com 🌎
+
+---
+
+## 👨‍💻 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+
+---
+
+## 🏆 GitHub Stats
+
+[![card](https://github-readme-stats.vercel.app/api?username=dieg0w&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![dieg0w](https://github-readme-stats.vercel.app/api/top-langs/?username=dieg0w&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
