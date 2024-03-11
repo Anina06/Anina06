@@ -20,4 +20,4 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=dieg0w&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![dieg0w](https://github-readme-stats.vercel.app/api/top-langs/?username=dieg0w&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anina06](https://github-readme-stats.vercel.app/api/top-langs/?username=Anina06&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
