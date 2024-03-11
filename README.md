@@ -1,10 +1,9 @@
-## 🐉 Olá, meu nome é Anne! 🐉
-
-<br/> Eu sou um desenvolvedor em Treinamento! ⚔️ </p>
+## :heart_decoration:	Olá, meu nome é Anne! :heart_decoration:	
+<br/> Eu sou uma desenvolvedora em Treinamento! ⚔️ </p>
 
 💬 Entre em contato comigo pelo meu email
 
-🌎 diegocs13cordeiro@gmail.com 🌎
+🌎 Anne_rocha@estudante.sesisenai.org.br 🌎
 
 ---
 
