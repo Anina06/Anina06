@@ -1,12 +1,11 @@
-## :heart_decoration:	Olá, meu nome é Anne! :heart_decoration:	
+## :heart_decoration:	Olá, meu nome é Munique! :heart_decoration:	
 <br/> Eu sou uma desenvolvedora em Treinamento! ⚔️ </p>
 
-💬 Entre em contato comigo pelo meu email
-
-🌎 Anne_rocha@estudante.sesisenai.org.br 🌎
+💬 Entre em contato comigo pelo email
+munique543ro@gmail.com🌎
 
 ---
-
+9
 ## 👨‍💻 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
